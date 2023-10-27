@@ -1,0 +1,12 @@
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Grewe"
+    given-names: "Luca Maria"
+    orcid: "https://orcid.org/0009-0009-6533-3432"
+  - family-names: "Steiner"
+    given-names: "Ladina"
+    orcid: "https://orcid.org/0000-0002-4958-0849"
+title: "Continuous estimation of snow/firn accumulation, surface mass, and density 
+on a moving surface using combined GNSS reflectometry/refractometry (GNSS-RR)."
+version: 2.0
+date-released: 2023-10-27
